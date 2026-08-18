@@ -379,6 +379,7 @@ For comprehensive documentation, see:
 
 - Built with [PLY (Python Lex-Yacc)](https://www.dabeaz.com/ply/)
 - Preprocessor powered by [pcpp](https://github.com/ned14/pcpp)
+- Parser powered by [pycparser](https://github.com/eliben/pycparser)
 - Inspired by modern programming language design
 
 ---
