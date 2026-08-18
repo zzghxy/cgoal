@@ -27,7 +27,7 @@ CGoal is a modern programming language that extends C with powerful features whi
 
 ### Key Features
 
-✨ **C Superset**: All valid C code (C89/C99/C11) is valid CGoal code  
+✨ **C Superset**: All valid C code (C89/C99) is valid CGoal code  
 🎯 **Goal Paradigm**: Declarative step-by-step execution with pipe operators (`|>`)  
 📦 **Namespaces**: Hierarchical code organization and modular design  
 🏗️ **Classes**: Reference semantics with automatic garbage collection  
@@ -198,7 +198,7 @@ CGoal 是一种现代编程语言，在保持与现有 C 代码完全兼容的�
 
 ### 核心特性
 
-✨ **C 超集**：所有合法的 C 代码（C89/C99/C11）都是合法的 CGoal 代码  
+✨ **C 超集**：所有合法的 C 代码（C89/C99）都是合法的 CGoal 代码  
 🎯 **Goal 范式**：通过管道操作符（`|>`）实现声明式步骤执行  
 📦 **命名空间**：层次化代码组织和模块化设计  
 🏗️ **类定义**：引用语义与自动垃圾回收  
