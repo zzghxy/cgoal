@@ -359,14 +359,13 @@ python build_exe.py
 ## Documentation
 
 For comprehensive documentation, see:
-- [CGoal Language Manual](README/CGoal语言手册.md) (Chinese)
-- [Build Instructions](BUILD.md)
+- [CGoal Language Manual](CGoal Language Manual.md)
+
 
 ## Support
 
-- 📖 [Documentation](README/CGoal语言手册.md)
-- 🐛 [Issue Tracker](https://github.com/yourusername/cgoal/issues)
-- 💬 [Discussions](https://github.com/yourusername/cgoal/discussions)
+- 🐛 [Issue Tracker](https://github.com/zzghxy/cgoal/issues)
+- 💬 [Discussions](https://github.com/zzghxy/cgoal/discussions)
 
 ## Roadmap
 
