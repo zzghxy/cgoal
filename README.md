@@ -137,15 +137,7 @@ cgoal/
 │   └── c_generator.py  # C code generator
 ├── preprocessor/        # Preprocessor implementation
 │   └── preprocessor.py # CGoal preprocessor
-├── examples/            # Example programs
-│   ├── hello.cgoal     # Hello World
-│   └── complete_test.cgoal
-├── test/                # Test suite
-├── README/              # Documentation
-│   └── CGoal语言手册.md
 ├── cgoalc.py           # Main compiler entry point
-├── build_exe.py        # Build script for executable
-└── BUILD.md            # Build instructions
 ```
 
 ### Building Executable
@@ -308,15 +300,7 @@ cgoal/
 │   └── c_generator.py  # C 代码生成器
 ├── preprocessor/        # 预处理器实现
 │   └── preprocessor.py # CGoal 预处理器
-├── examples/            # 示例程序
-│   ├── hello.cgoal     # Hello World
-│   └── complete_test.cgoal
-├── test/                # 测试套件
-├── README/              # 文档
-│   └── CGoal语言手册.md
 ├── cgoalc.py           # 主编译器入口
-├── build_exe.py        # 可执行文件构建脚本
-└── BUILD.md            # 构建说明
 ```
 
 ### 构建可执行文件
